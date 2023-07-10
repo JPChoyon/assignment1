@@ -4,12 +4,30 @@
   padding: 0;
   font-family: Lato sans-serif;
 }
+/* shared style */
 .primary-btn {
   padding: 20px 40px;
   border-radius: 10px;
   border: 0;
   color: white;
   background-color: #e55473;
+}
+.primary-heading {
+  color: #272727;
+  text-align: center;
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+.primary-pera {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
 }
 
 /* banner section style  */
@@ -43,23 +61,7 @@
   margin: auto;
   margin-top: 150px;
 }
-.feture-heding {
-  color: #272727;
-  text-align: center;
-  font-family: Lato;
-  font-size: 40px;
-  font-weight: 800;
-  margin-bottom: 20px;
-}
-.feture-pera {
-  color: rgba(39, 39, 39, 0.6);
-  text-align: center;
-  font-family: Lato;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 30px;
-}
+
 /* feture section bottom style start from here  */
 .feture-bottom {
   display: flex;
@@ -138,4 +140,22 @@
   width: 120px;
   margin: auto;
   display: block;
+}
+/* socila / instagram section start from here  */
+.social-top {
+  margin-top: 120px;
+}
+.social-pera {
+  width: 50%;
+  margin: auto;
+}
+.social-bottom {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  margin-top: 40px;
+}
+.social-img img {
+  width: 310px;
+  height: 350px;
 }
