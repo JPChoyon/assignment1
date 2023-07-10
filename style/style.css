@@ -63,8 +63,8 @@
 /* feture section bottom style start from here  */
 .feture-bottom {
   display: flex;
-  gap: 24px;
-  width: 85%;
+  gap: 35px;
+  width: 74%;
   margin: auto;
   padding: 50px 0px;
 }
