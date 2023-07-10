@@ -66,8 +66,7 @@
 .feture-bottom {
   display: flex;
   gap: 35px;
-  width: 83%;
-  margin: auto;
+  justify-content: center;
   padding: 50px 0px;
 }
 .feture-bottom-con {
@@ -142,8 +141,10 @@
   display: block;
 }
 /* socila / instagram section start from here  */
-.social-top {
-  margin-top: 120px;
+.social {
+  margin: auto;
+  width: 80%;
+  padding: 110px 0px;
 }
 .social-pera {
   width: 50%;
@@ -156,6 +157,27 @@
   margin-top: 40px;
 }
 .social-img img {
-  width: 310px;
-  height: 350px;
+  width: 270px;
+  height: 330px;
+}
+/* leatest deal start  */
+.letest-deal {
+  width: 80%;
+  margin: auto;
+  background-image: url(../assets/images/Rectangle\ 9.png);
+  background-repeat: no-repeat;
+  margin-bottom: 150px;
+}
+.leatest-deal-con {
+  padding: 75px 180px;
+}
+.letest-pera {
+  margin-bottom: 30px;
+}
+.letest-mail {
+  border-radius: 8px;
+  margin: 0px 20px;
+  background: #fff;
+  border: 0;
+  padding: 20px 475px 20px 20px;
 }
