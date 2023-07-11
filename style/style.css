@@ -136,9 +136,9 @@
   margin: 22px 0px;
 }
 .hot-deal-btn {
+  display: block;
   width: 140px;
   margin: auto;
-  display: block;
 }
 /* socila / instagram section start from here  */
 .social {
