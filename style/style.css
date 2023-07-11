@@ -165,7 +165,7 @@
   width: 80%;
   gap: 120px;
   margin: auto;
-  padding: 100px 0px;
+  padding: 40px 0px 120px 0px;
 }
 .item-flower {
   text-align: center;
@@ -181,7 +181,6 @@
 .best-deal-pera {
   width: 65%;
   margin: auto;
-  padding-bottom: 30px;
 }
 /* leatest deal start  */
 .letest-deal {
